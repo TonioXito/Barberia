@@ -1,2 +1,0 @@
-# Barberia
-Control de Citas
